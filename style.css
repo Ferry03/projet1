@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-color:white;
+}
+h1{
+  font-size: 3.5rem;
+}
+h3{
+  font-size: 2.5rem
+}
+#main {
+  text-align: center;
+  background-color:#eee;
+}
+#img-caption{
+  font-family: Arial, Helvetica, sans-serif;
+    margin: 35px 100px 50px 100px;
+    
+}
+#tribute-info {
+
+  margin: 15px 100px 25px 100px;
+  
+}
+#image{
+  border: none;
+  margin: 50px 50px 0 50px;
+    width:750px;
+    /* height: 50%; */
+}
+#img-div{
+    background-color: white;
+    margin: 50px 20px 50px 20px;
+}
