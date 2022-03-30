@@ -10,7 +10,7 @@ h3{
 }
 #main {
   text-align: center;
-  background-color:#eee;
+  background: linear-gradient(35deg, #CCFFFF, #484068, rgb(204, 204, 255))
 }
 #img-caption{
   font-family: Arial, Helvetica, sans-serif;
